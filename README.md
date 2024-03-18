@@ -7,7 +7,7 @@ Computer science student
 I've been learning to code since 2018 and I like making games(computer & android), apps. I am a formula one enthusiast and i own the TurnOneOfficial accounts where I post formula one content.
 
 * 🌍  I'm based in Romania
-* 🧠  I'm learning Rust, React and Next.js
+* 🧠  I'm learning Rust, Assembly and React
 * 🤝  I'm open to collaborating on game development or telemetry data analysis
 
 ### Skills
