@@ -48,7 +48,8 @@ I've been developing software since **2018**, blending **programming, electronic
 ### **📂 Tools & Platforms:**  
 - **Linux (Debian & Arch-based distros)** – Sysadmin, scripting, server management.  
 - **Docker & VPS (Hetzner)** – Hosting and deploying applications.  
-- **Git & GitHub** – Version control and collaboration.  
+- **Git & GitHub** – Version control and collaboration.
+- **MatLab & Simulink**
 
 ### **🎬 Creative & Content Creation:**  
 - **Video Editing:** After Effects, Premiere Pro.  
