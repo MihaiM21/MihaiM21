@@ -1,5 +1,5 @@
-# Hey, I'm Mihai! 🏎️🔥  
-### **Software Developer | F1 Telemetry Analyst | Engineering & Aerodynamics Enthusiast**  
+<h1 align="center"> Hey, I'm Mihai! 🏎️🔥  </h1>
+<h3 align="center"> Software Developer | F1 Telemetry Analyst | Engineering & Aerodynamics Enthusiast  </h3>
 
 I'm a **software developer, engineer at heart, and a motorsport fanatic**. I have a deep passion for **Formula 1 telemetry, aerodynamics, and high-performance engineering**. Whether it's **coding, building hardware, or analyzing data**, I'm always working on something exciting.  
 
