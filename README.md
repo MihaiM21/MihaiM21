@@ -31,6 +31,11 @@ I've been developing software since **2018**, blending **programming, electronic
 - **Java, Python** – Data analysis, AI, automation.  
 - **JavaScript, HTML, CSS, Tailwind** – Web development.  
 
+### **💨 Aerodynamics & CFD:**  
+- **CFD Simulations (ANSYS, OpenFOAM)** – Validating aerodynamic concepts.  
+- **SolidWorks Aero & CAD Modeling** – Designing & optimizing aero parts.  
+- **Wind Tunnel Testing** – Experimental validation of CFD results.  
+
 ### **🔌 Electronics & Hardware:**  
 - ** STM32, Arduino & Raspberry Pi** – Embedded systems, IoT, and automation.  
 - **PCB Design (KiCad)** – Designing custom circuit boards, ordering from JLCPCB.  
@@ -60,4 +65,5 @@ I'm always open to **collaborations** in **motorsport tech, game dev, AI, and ae
 📍 **Email:** mihai@t1f1.com  
 📍 **F1 Content:** [Turn One Official](https://t1f1.com)  
 
+🏁 **Forza Ferrari, sempre! 🔴🔥**
 🔥 **Let's build something amazing!** 🚀  
