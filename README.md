@@ -1,27 +1,64 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mihai Marinescu
-=======================================================================================================================================
+# Hey, I'm Mihai! 🏎️🔥  
+### **Software Developer | F1 Telemetry Analyst | Engineering & Aerodynamics Enthusiast**  
 
-Computer science student
-------------------------
+I'm a **software developer, engineer at heart, and a motorsport fanatic**. I have a deep passion for **Formula 1 telemetry, aerodynamics, and high-performance engineering**. Whether it's **coding, building hardware, or analyzing data**, I'm always working on something exciting.  
 
-I've been learning to code since 2018 and I like making games(computer & android), apps. I am a formula one enthusiast and i own the TurnOneOfficial accounts where I post formula one content.
+I've been developing software since **2018**, blending **programming, electronics, and mechanics** to create innovative projects. From **F1 data visualization** to **aerodynamic experiments**, my goal is to push boundaries and explore cutting-edge technology.  
 
-* 🌍  I'm based in Romania
-* 🧠  I'm learning ML, Neural network
-* 🤝  I'm open to collaborating on game development or telemetry data analysis
+---
 
-### Skills
+## **🚀 Currently Working On**  
 
+### **💨 Miniature Wind Tunnel for Aerodynamic Testing**  
+- Constructing a **mini open-circuit wind tunnel** to test **F1-inspired aerodynamics**.  
+- Using a **2300KV drone motor** for airflow and a **Venturi section** for accurate flow measurement.  
+- Designed for **CFD validation** and **real-world aerodynamic testing**.  
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
+### **🏎️ FOTA – F1 Telemetry Analysis App**  
+- A **Windows desktop app** built with **C# and WPF**, integrating real-time **Formula 1 telemetry analysis**.  
+- Connects to my website **t1f1.com**, offering users detailed race data insights.  
 
+### **🖥️ [t1f1.com](https://t1f1.com) – F1 Data & Engineering Hub**  
+- Developing an **F1 telemetry analysis tool** that lets fans compare **driver performances, speed data, and racing lines**.  
+- Covering **F1 news & technical deep dives**.  
+- Selling **3D-printed F1 collectibles** and custom racing gear.  
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/MihaiM21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+## **🔧 Tech Stack & Skills**  
 
-### Badges
+### **🖥️ Programming Languages:**  
+- **C, C++, C#** – Game & app development, Windows applications.  
+- **Java, Python** – Data analysis, AI, automation.  
+- **JavaScript, HTML, CSS, Tailwind** – Web development.  
 
-<a href="https://github.com/MihaiM21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihaiM21&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### **🔌 Electronics & Hardware:**  
+- **Arduino & Raspberry Pi** – Embedded systems, IoT, and automation.  
+- **PCB Design (KiCad)** – Designing custom circuit boards, ordering from JLCPCB.  
+- **3D Printing & CAD** – Building custom hardware for engineering projects.  
+
+### **📊 Data & AI:**  
+- **SQL & MySQL** – Database management.  
+- **Machine Learning & Neural Networks** – AI models for data prediction.  
+
+### **📂 Tools & Platforms:**  
+- **Linux (Debian & Arch-based distros)** – Sysadmin, scripting, server management.  
+- **Docker & VPS (Hetzner)** – Hosting and deploying applications.  
+- **Git & GitHub** – Version control and collaboration.  
+
+### **🎬 Creative & Content Creation:**  
+- **Video Editing:** After Effects, Premiere Pro.  
+- **Graphic Design:** Photoshop, Illustrator.  
+- **YouTube Content Creation:** Documentaries and F1 technical analysis on [Turn One](https://t1f1.com).  
+
+---
+
+## **📬 Get in Touch!**  
+I'm always open to **collaborations** in **motorsport tech, game dev, AI, and aerodynamics**. If you're passionate about the same things, let's chat!  
+
+📍 **GitHub:** [MihaiM21](https://github.com/MihaiM21)  
+📍 **Website:** [t1f1.com](https://t1f1.com)  
+📍 **Email:** mihai@t1f1.com  
+📍 **F1 Content:** [Turn One Official](https://t1f1.com)  
+
+🔥 **Let's build something amazing!** 🚀  
