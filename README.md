@@ -37,7 +37,7 @@ I've been developing software since **2018**, blending **programming, electronic
 - **Wind Tunnel Testing** – Experimental validation of CFD results.  
 
 ### **🔌 Electronics & Hardware:**  
-- ** STM32, Arduino & Raspberry Pi** – Embedded systems, IoT, and automation.  
+- **STM32, Arduino & Raspberry Pi** – Embedded systems, IoT, and automation.  
 - **PCB Design (KiCad)** – Designing custom circuit boards, ordering from JLCPCB.  
 - **3D Printing & CAD** – Building custom hardware for engineering projects.  
 
