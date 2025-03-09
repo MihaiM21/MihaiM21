@@ -10,12 +10,11 @@ I've been developing software since **2018**, blending **programming, electronic
 ## **🚀 Currently Working On**  
 
 ### **💨 Miniature Wind Tunnel for Aerodynamic Testing**  
-- Constructing a **mini open-circuit wind tunnel** to test **F1-inspired aerodynamics**.  
-- Using a **2300KV drone motor** for airflow and a **Venturi section** for accurate flow measurement.  
+- Constructing a **mini open-circuit wind tunnel** to test **F1-inspired aerodynamics**.   
 - Designed for **CFD validation** and **real-world aerodynamic testing**.  
 
 ### **🏎️ FOTA – F1 Telemetry Analysis App**  
-- A **Windows desktop app** built with **C# and WPF**, integrating real-time **Formula 1 telemetry analysis**.  
+- A **Windows desktop app** built with **.NET**, integrating real-time **Formula 1 telemetry analysis**.  
 - Connects to my website **t1f1.com**, offering users detailed race data insights.  
 
 ### **🖥️ [t1f1.com](https://t1f1.com) – F1 Data & Engineering Hub**  
