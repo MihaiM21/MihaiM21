@@ -32,7 +32,7 @@ I've been developing software since **2018**, blending **programming, electronic
 - **JavaScript, HTML, CSS, Tailwind** – Web development.  
 
 ### **🔌 Electronics & Hardware:**  
-- **Arduino & Raspberry Pi** – Embedded systems, IoT, and automation.  
+- ** STM32, Arduino & Raspberry Pi** – Embedded systems, IoT, and automation.  
 - **PCB Design (KiCad)** – Designing custom circuit boards, ordering from JLCPCB.  
 - **3D Printing & CAD** – Building custom hardware for engineering projects.  
 
