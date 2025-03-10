@@ -33,7 +33,7 @@ I've been developing software since **2018**, blending **programming, electronic
 
 ### **💨 Aerodynamics & CFD:**  
 - **CFD Simulations (ANSYS, OpenFOAM)** – Validating aerodynamic concepts.  
-- **SolidWorks Aero & CAD Modeling** – Designing & optimizing aero parts.  
+- **SolidWorks & CAD Modeling** – Designing & optimizing aero parts.  
 - **Wind Tunnel Testing** – Experimental validation of CFD results.  
 
 ### **🔌 Electronics & Hardware:**  
