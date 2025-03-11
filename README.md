@@ -20,7 +20,6 @@ I've been developing software since **2018**, blending **programming, electronic
 ### **🖥️ [t1f1.com](https://t1f1.com) – F1 Data & Engineering Hub**  
 - Developing an **F1 telemetry analysis tool** that lets fans compare **driver performances, speed data, and racing lines**.  
 - Covering **F1 news & technical deep dives**.  
-- Selling **3D-printed F1 collectibles** and custom racing gear.  
 
 ---
 
