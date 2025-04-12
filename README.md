@@ -60,7 +60,6 @@ I've been developing software since **2018**, blending **programming, electronic
 ## **📬 Get in Touch!**  
 I'm always open to **collaborations** in **motorsport tech, game dev, AI, and aerodynamics**. If you're passionate about the same things, let's chat!  
 
-📍 **GitHub:** [MihaiM21](https://github.com/MihaiM21)  
 📍 **Website:** [t1f1.com](https://t1f1.com)  
 📍 **Email:** mihai@t1f1.com  
 📍 **F1 Content:** [Turn One Official](https://t1f1.com)  
