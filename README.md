@@ -57,6 +57,8 @@ I've been developing software since **2018**, blending **programming, electronic
 
 ---
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaim21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## **📬 Get in Touch!**  
 I'm always open to **collaborations** in **motorsport tech, game dev, AI, and aerodynamics**. If you're passionate about the same things, let's chat!  
 
