@@ -9,6 +9,11 @@ I've been developing software since **2018**, blending **programming, electronic
 
 ## **🚀 Currently Working On**  
 
+### **🏎️ F1 Performance Simulator**
+- Developing a simulation tool to analyze Formula 1 car performance under various conditions.
+- Built using MATLAB/Simulink for modeling, Python for data processing, and C for integration with low-level systems.
+- Focused on vehicle dynamics, aerodynamics, and real-time analysis.
+
 ### **💨 Miniature Wind Tunnel for Aerodynamic Testing**  
 - Constructing a **mini open-circuit wind tunnel** to test **F1-inspired aerodynamics**.   
 - Designed for **CFD validation** and **real-world aerodynamic testing**.  
