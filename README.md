@@ -1,5 +1,6 @@
 <h1 align="center"> Hey, I'm Mihai! 🏎️🔥  </h1>
-<h3 align="center"> Software Developer | F1 Telemetry Analyst | Engineering & Aerodynamics Enthusiast  </h3>
+<h3 align="center"> Software Developer | F1 Telemetry Engineer | Aerodynamics & Simulation Enthusiast </h3>
+
 
 I'm a **software developer, engineer at heart, and a motorsport fanatic**. I have a deep passion for **Formula 1 telemetry, aerodynamics, and high-performance engineering**. Whether it's **coding, building hardware, or analyzing data**, I'm always working on something exciting.  
 
@@ -22,7 +23,7 @@ I've been developing software since **2018**, blending **programming, electronic
 - A **Windows desktop app** built with **.NET**, integrating real-time **Formula 1 telemetry analysis**.  
 - Connects to my website **t1f1.com**, offering users detailed race data insights.  
 
-### **🖥️ [t1f1.com](https://t1f1.com) – F1 Data & Engineering Hub**  
+### **🖥️ [Turn One](https://t1f1.com) – F1 Data & Engineering Hub**  
 - Developing an **F1 telemetry analysis tool** that lets fans compare **driver performances, speed data, and racing lines**.  
 - Covering **F1 news & technical deep dives**.  
 
@@ -33,7 +34,7 @@ I've been developing software since **2018**, blending **programming, electronic
 ### **🖥️ Programming Languages:**  
 - **C, C++, C#** – Game & app development, Windows applications.  
 - **Java, Python** – Data analysis, AI, automation.  
-- **JavaScript, HTML, CSS, Tailwind** – Web development.  
+- **React, Angular, NextJS, TypeScript, JavaScript, HTML, CSS, Tailwind** – Web development.  
 
 ### **💨 Aerodynamics & CFD:**  
 - **CFD Simulations (ANSYS, OpenFOAM)** – Validating aerodynamic concepts.  
@@ -61,8 +62,10 @@ I've been developing software since **2018**, blending **programming, electronic
 - **YouTube Content Creation:** Documentaries and F1 technical analysis on [Turn One](https://t1f1.com).  
 
 ---
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaim21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mihaim21&theme=dark&hide_border=false&show_icons=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihaim21&theme=dark&hide_border=false&layout=compact" height="170" />
+</p>
 
 ## **📬 Get in Touch!**  
 I'm always open to **collaborations** in **motorsport tech, game dev, AI, and aerodynamics**. If you're passionate about the same things, let's chat!  
@@ -72,5 +75,3 @@ I'm always open to **collaborations** in **motorsport tech, game dev, AI, and ae
 📍 **F1 Content:** [Turn One Official](https://t1f1.com)  
 
 🏁 **Forza Ferrari, sempre! 🔴🔥**
-
-🔥 **Let's build something amazing!** 🚀  
