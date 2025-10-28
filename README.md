@@ -124,4 +124,3 @@ Open to collaboration in:
 ---
 
 <p align="center"><i>If it can be measured, it can be improved.</i></p>
-<p align="center">🔴 Forza Ferrari</p>
